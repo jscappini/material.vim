@@ -1,2 +1,4 @@
 # material.vim
-Dark Material colorscheme for Gvim
+
+A very minimalist dark Material colorscheme for Gvim.
+
